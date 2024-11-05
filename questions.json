@@ -1,0 +1,242 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Combine the following into one independent clause: <br>'The children played outside. They laughed joyfully.'",
+        "options": [
+            "The children played outside, laughing joyfully.",
+            "The children played outside, and they laughed joyfully.",
+            "The children played outside while they laughed joyfully.",
+            "The children laughed joyfully as they played outside."
+        ],
+        "correct": 0,
+        "explanation": "This is a simple sentence because 'laughing joyfully' is a participial phrase modifying 'The children played outside,' resulting in one independent clause. Option b) is incorrect because it links two independent clauses with 'and,' forming a compound sentence. Option c) is incorrect because 'while they laughed joyfully' introduces a dependent clause, making it a complex sentence. Option d) is incorrect because 'as they played outside' creates a complex sentence by introducing a dependent clause."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Combine the following into one independent clause:<br> 'The wind blew fiercely. The trees bent low.'",
+        "options": [
+            "The wind blew fiercely, and the trees bent low.",
+            "The wind blew fiercely because the trees bent low.",
+            "The trees bent low as the wind blew fiercely.",
+            "The wind blew fiercely, bending the trees low."
+        ],
+        "correct": 3,
+        "explanation": "Option d) represents a simple sentence because 'bending the trees low' is a participial phrase modifying 'The wind blew fiercely,' resulting in one independent clause. Option a) is incorrect because it links two independent clauses with 'and,' creating a compound sentence. Option b) is incorrect because 'because the trees bent low' introduces a dependent clause, turning it into a complex sentence. Option c) is incorrect because 'as the wind blew fiercely' introduces a dependent clause, making it a complex sentence."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Select the option that joins two independent clauses with a coordinating conjunction:<br> 'I finished my homework. I went to bed.'",
+        "options": [
+            "I finished my homework after I went to bed.",
+            "I finished my homework, and I went to bed.",
+            "I went to bed when I finished my homework.",
+            "After I finished my homework, I went to bed."
+        ],
+        "correct": 1,
+        "explanation": "Option b) is a compound sentence because it joins two independent clauses ('I finished my homework' and 'I went to bed') with the coordinating conjunction 'and.' Both can function as complete sentences on their own. Option a) is incorrect because 'after I went to bed' creates a dependent clause, forming a complex sentence. Option c) is incorrect because 'when I finished my homework' turns the first clause into a time-dependent clause, making the sentence complex. Option d) is incorrect because 'after I finished my homework' introduces a dependent clause, forming a complex sentence."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "Select the option that creates a complex sentence by combining the clauses:<br> 'He studied hard. He passed the exam.'",
+        "options": [
+            "He passed the exam after he studied hard.",
+            "He passed the exam, and he studied hard.",
+            "He studied hard, so he passed the exam.",
+            "He studied hard because he passed the exam."
+        ],
+        "correct": 0,
+        "explanation": "Option a) is a complex sentence because 'after he studied hard' is a dependent clause explaining when the action of the independent clause 'He passed the exam' occurred. Option b) is incorrect because it is a compound sentence with 'and,' connecting two independent clauses. Option c) is incorrect because it forms a compound sentence using 'so' to join two independent clauses. Option d) is incorrect because it implies a causal relationship in the wrong direction, as studying hard should be the cause of passing the exam, not the other way around."
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Complete the sentence:<br> 'He passed the exam _______ he studied hard.'",
+        "options": [
+          "after",
+          "but",
+          "and",
+          "because"
+        ],
+        "correct": 0,
+        "explanation": "a) 'after' creates a complex sentence where one event ('he studied hard') leads to another event ('he passed the exam'). Option b) 'but' is a coordinating conjunction used in compound sentences, showing contrast. There is no contrast in this situation. Option c) 'and' is a coordinating conjunction used in compound sentences to link two independent ideas. This is not appropriate for expressing a cause-and-effect relationship. Option d) 'because' suggests the reverse cause-and-effect relationship, incorrectly implying he studied hard because he passed the exam."
+      },
+      {
+        "questionNo": "Q6",
+        "question": "Complete the sentence:<br> 'He decided to rest _______ he finished the project.'",
+        "options": [
+          "after",
+          "but",
+          "since",
+          "and"
+        ],
+        "correct": 0,
+        "explanation": "In option a) 'after' indicates that resting happened following the completion of the project, forming a complex sentence. In option b) 'but' indicates contrast, which does not fit the cause-effect sequence. In option c) 'since' would indicate a cause, but here 'after' is more appropriate for the sequence of events. In option d) 'and' would create a compound sentence without indicating any sequence of actions."
+      },
+      {
+        "questionNo": "Q7",
+        "question": "Complete the sentence:<br> 'The train had already left _______ we arrived at the station.'",
+        "options": [
+          "since",
+          "but",
+          "before",
+          "so"
+        ],
+        "correct": 2,
+        "explanation": "In option c) 'before' shows that the train's departure happened prior to the arrival, creating a complex sentence. In option a) 'since' doesn’t fit because it implies cause, not sequence. In option b) 'but' indicates contrast and doesn’t work here. In option d) 'so' would suggest a result, which is not appropriate here."
+      },
+      {
+        "questionNo": "Q8",
+        "question": "Complete the sentence: <br>'He had hardly closed the door _______ the alarm went off.'",
+        "options": [
+          "than",
+          "when",
+          "before",
+          "as soon as"
+        ],
+        "correct": 1,
+        "explanation": "In option b) 'when' correctly forms a complex sentence using the structure 'hardly... when,' indicating that two actions happened in quick succession. In option a) 'than' is incorrect as it does not work with 'hardly' (it pairs with 'no sooner'). In option c) 'before' suggests the door closing happened first, which doesn’t fit this structure. In option d) 'as soon as' is redundant when paired with 'hardly.'"
+      },
+      {
+        "questionNo": "Q9",
+        "question": "Complete the sentence: <br>'No sooner had we arrived at the station _______ the train departed.'",
+        "options": [
+          "when",
+          "than",
+          "as",
+          "while"
+        ],
+        "correct": 1,
+        "explanation": "b) 'than' is the correct word to complete the sentence with the phrase 'No sooner... than,' which indicates that two events happened almost simultaneously. In option a) 'when' does not fit the grammatical structure. In option c) 'as' suggests the two actions happened simultaneously, but this sentence requires a quicker sequence of events. In option d) 'while' would imply that both events were ongoing, which is not the case here."
+      },
+      {
+        "questionNo": "Q10",
+        "question": "Complete the sentence:<br> 'Scarcely had they started their journey _______ the car broke down.'",
+        "options": [
+          "than",
+          "before",
+          "when",
+          "after"
+        ],
+        "correct": 2,
+        "explanation": "c) 'when' forms a complex sentence with 'scarcely... when,' indicating that the car broke down shortly after they began the journey. In option a) 'than' is incorrect; it does not fit with 'scarcely.' In option b) 'before' would suggest the breakdown happened prior to starting the journey, which isn’t logical. In option d) 'after' would suggest a time gap, which doesn’t convey the immediate succession of events."
+      },
+      {
+        "questionNo": "Q11",
+        "question": "Rearrange the following words to form a compound sentence:<br> 'passed / he / studied / hard / he / the exam / and'",
+        "options": [
+          "'He passed the exam, and he studied hard.'",
+          "'He studied hard, and he passed the exam.'",
+          "'He studied hard, after he passed the exam.'",
+          "'After he studied hard, he passed the exam.'"
+        ],
+        "correct": 1,
+        "explanation": "Option  b) represents a compound sentence, where two independent clauses are joined by the coordinating conjunction 'and'. Both parts ('He studied hard' and 'He passed the exam') are standalone clauses. In option a) 'He passed the exam, and he studied hard' reverses the logical order of events, making the sentence less coherent. In option c), 'He studied hard, after he passed the exam' is incorrect because it implies he studied after the exam, which defies logical sequence. In option d), 'After he studied hard, he passed the exam' is a complex sentence, not a compound one."
+      },
+      {
+        "questionNo": "Q12",
+        "question": "Rearrange the following words to form a simple sentence:<br> 'plays / football / every / Tom / weekend'",
+        "options": [
+          "'Every weekend, Tom plays football.'",
+          "'Tom plays football every weekend, and he enjoys it.'",
+          "'Tom plays football because he loves it.'",
+          "'After Tom plays football, he feels tired.'"
+        ],
+        "correct": 0,
+        "explanation": "Option a) is a simple sentence with a subject ('Tom'), a verb ('plays'), and a single object ('football'). It expresses a single complete idea. Option b) is a compound sentence because it has two independent clauses. Option c) is a complex sentence because it includes a subordinate clause introduced by 'because.' Option d) is a complex sentence because of the subordinate clause starting with 'After.'"
+      },
+      {
+        "questionNo": "Q13",
+        "question": "Rearrange the following words to form a complex sentence:<br> 'before / completed / she / the report / she / left / the office'",
+        "options": [
+          "'She completed the report, and she left the office.'",
+          "'She completed the report before she left the office.'",
+          "'She left the office before she completed the report.'",
+          "'Before she completed the report, she left the office.'"
+        ],
+        "correct": 1,
+        "explanation": "Option b) is a complex sentence where the subordinate clause 'before she left the office' is joined to the main clause 'She completed the report.' Option a) is a compound sentence with two independent clauses joined by 'and.' Options c) and d) change the sequence of events, making the sentence illogical."
+      },
+      {
+        "questionNo": "Q14",
+        "question": "Rearrange the following words to form a compound sentence:<br> 'bought / went / I / a book / to the store / and / I'",
+        "options": [
+          "'I bought a book, and I went to the store.'",
+          "'I went to the store, and I bought a book.'",
+          "'After I went to the store, I bought a book.'",
+          "'I went to the store because I needed to buy a book.'"
+        ],
+        "correct": 1,
+        "explanation": "This is a compound sentence with two independent clauses joined by the coordinating conjunction 'and.' Option a) changes the logical order of events. Option c) is a complex sentence because of the subordinate clause starting with 'After.' Option d) is also a complex sentence with a subordinate clause starting with 'because.'"
+      },
+      {
+        "questionNo": "Q15",
+        "question": "Rearrange the following words to form a complex-compound sentence: <br>'he / came / missed / meeting / he / because / was late / and / the / apologised'",
+        "options": [
+          "'He missed the meeting because he was late, and he apologised.'",
+          "'He missed the meeting, and he apologised because he was late.'",
+          "'Because he was late, he missed the meeting and apologised.'",
+          "'He apologised after he missed the meeting because he was late.'"
+        ],
+        "correct": 0,
+        "explanation": "Option a) represents a complex-compound sentence with two independent clauses ('He missed the meeting' and 'he apologised') joined by 'and,' and a dependent clause ('because he was late') explaining why he missed the meeting. Option b) reverses the logical sequence, making the apology a result of being late instead of missing the meeting. Option c) is a complex sentence, but it doesn’t maintain the same structure with two independent clauses. Option d) changes the event sequence and becomes a complex sentence."
+      },
+      {
+        "questionNo": "Q16",
+        "question": "Rearrange the following words to form a simple sentence:<br> 'studies / she / every / night'",
+        "options": [
+          "'Every night, she studies.'",
+          "'She studies every night, and she also plays the piano.'",
+          "'She studies every night because she has exams.'",
+          "'She studies after, every night.'"
+        ],
+        "correct": 0,
+        "explanation": "Option a) represents a simple sentence with a subject ('she') and a verb ('studies'), expressing one idea. Option b) is a compound sentence due to the additional clause. Option c) is a complex sentence with a dependent clause introduced by 'because.' Option d) changes the meaning and makes the sentence illogical."
+      },
+      {
+        "questionNo": "Q17",
+        "question": "Identify the type of sentence: <br>'Even though it was raining, we went for a walk.'",
+        "options": [
+          "Simple",
+          "Compound",
+          "Complex",
+          "Complex-compound"
+        ],
+        "correct": 2,
+        "explanation": "Option c) represents a complex sentence with one dependent clause ('Even though it was raining') and one independent clause ('we went for a walk'). Option a) is incorrect because a simple sentence doesn’t have a dependent clause. Option b) is incorrect as a compound sentence has two independent clauses. Option d) is incorrect as there is only one independent clause here."
+      },
+      {
+        "questionNo": "Q18",
+        "question": "Identify the type of sentence:<br> 'While she was studying, her phone rang.'",
+        "options": [
+          "Simple",
+          "Compound",
+          "Complex",
+          "Complex-compound"
+        ],
+        "correct": 2,
+        "explanation": "Option c) represents a complex sentence that consists of one dependent clause ('While she was studying') and one independent clause ('her phone rang'). Option a) is incorrect because a simple sentence does not have any dependent clauses. Option b) is incorrect because a compound sentence consists of two independent clauses, which this sentence does not have. Option d) is incorrect as there is only one independent clause and one dependent clause, not multiple independent clauses."
+      },
+      {
+        "questionNo": "Q19",
+        "question": "Rewrite the following simple sentence as a compound sentence:<br> 'She enjoys painting.'",
+        "options": [
+          "'She enjoys painting, and she also loves drawing.'",
+          "'Because she enjoys painting, she takes classes.'",
+          "'After she enjoys painting, she cleans her brushes.'",
+          "'She enjoys painting because it relaxes her.'"
+        ],
+        "correct": 0,
+        "explanation": "Option a) represents a compound sentence that joins two independent clauses ('She enjoys painting' and 'she also loves drawing') with the coordinating conjunction 'and.' Option b) is a complex sentence because it includes a dependent clause ('Because she enjoys painting'). Option c) is also a complex sentence since it includes a dependent clause ('After she enjoys painting'). Option d) is a complex sentence because it contains a dependent clause ('because it relaxes her') explaining the reason for her enjoyment."
+      },
+      {
+        "questionNo": "Q20",
+        "question": "Rewrite the following simple sentence as a compound sentence: <br>'The author finished her novel.'",
+        "options": [
+          "'The author finished her novel, and she submitted it to the publisher.'",
+          "'Because the author finished her novel, she felt relieved.'",
+          "'After the author finished her novel, she started a new project.'",
+          "'The author finished her novel although it was challenging.'"
+        ],
+        "correct": 0,
+        "explanation": "Option a) represents a compound sentence connecting two independent clauses with 'and.' Option b) is a complex sentence with a dependent clause. Option c) is also a complex sentence with a dependent clause. Option d) is incorrect because it has a dependent clause indicating contrast, making it a complex sentence."
+      }
+]
